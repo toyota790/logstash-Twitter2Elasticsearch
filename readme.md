@@ -70,7 +70,7 @@ Reference from [Twitter Developer Document](https://dev.twitter.com/overview/api
 
 ##Configuration
 
-Required configuration options in "/source code/twitter2elastic\_and\_json.conf" file:
+Required configuration options in "/crawler/twitter2elastic\_and\_json.conf" file:
 
 	twitter {
 	    consumer_key => ...
