@@ -28,7 +28,7 @@ The topic is [Panama Papers](https://en.wikipedia.org/wiki/Panama_Papers).
 The data set is using the JSON format.
 
 ##Dataset Size
-The total data size is 1.71 GB.
+The total data size is 2.1 GB.
 
 ##JSON Schema
 
